@@ -3,7 +3,7 @@
         <footer class="center-align">
             © <?php echo date("Y") ?>
             <a href="#" target="_blank" title="Sarai T">
-                Sarai Formaweb
+                David Seoane
             </a>
         </footer>
 

@@ -2,8 +2,8 @@
         </main>
         <footer class="center-align">
             © <?php echo date("Y") ?> Panel de Administración.
-            <a href="#" target="_blank" title="Sarai Temes">
-                Sarai Formaweb
+            <a href="#" target="_blank" title="David Seoane">
+                David Seoane
             </a>
         </footer>
 
